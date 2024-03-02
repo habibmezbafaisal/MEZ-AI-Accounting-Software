@@ -1,5 +1,5 @@
 # MEZ-AI-Accounting-Software
-An Artificial Intelligent Accounting Software.
+Artificial Intelligent Accounting Software.
 MEZ: AI Accounting Software
 Welcome to MEZ, the globally acclaimed AI-driven accounting software that revolutionizes financial management for businesses of all sizes. With millions of users worldwide and a rapidly growing community, GlobaLedger empowers organizations to streamline their accounting processes, enhance accuracy, and make data-driven financial decisions.
 
